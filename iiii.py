@@ -53,4 +53,8 @@ elif bout == '1' + c or bout == '2' + a or bout == '3' + b :
 	print('Your defeat...')
 
 else :
-	print("Choose one of 1,2,3 !!!!")
+	print("Choose one of 1,2,3 ")
+
+
+print('test')
+print('test')
